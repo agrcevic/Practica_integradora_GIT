@@ -1,0 +1,1 @@
+console.log("Esta es una prueba de commit del punto 6");
